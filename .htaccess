@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName password
+AuthUserFile D:/新しいフォルダー (6)/あいうえお/.htpasswd
+require valid-user
